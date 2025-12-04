@@ -150,25 +150,37 @@ Model sonuçlarının görsel sunumu
 
 🧠 3. Genel Proje Yapısı
 All_Lending_Club_Graduation_Project2/
-notebooks
-│
-├── 01_Created_subtable/
-│   ├── accepted_loans/
-│   ├── rejected_loans/
-│
-├── 02_EDA/
-│   ├── visualizations.ipynb
-│
-├── 03_KPI&Insights/
-│
-├── 04_Models/
-│   ├── logistic_regression/
-│   ├── stress_test/
-│   ├── model_3/
-│   ├──
+|
+├──notebooks
+|    ├── 01_Created_subtable/
+|    |   ├── Accepted_to_credit_history.ipynb/
+|    |   ├── Accepted_to_payments.ipynb/
+|    │
+|    ├── 02_EDA/
+|    │   ├── EDA_credit_history.ipynb
+|    |   ├── EDA_Payments.ipynb
+|    |   ├── 
+|    |   ├── 
+|    │
+|    ├── 03_KPI&Insights/
+|    |   ├── 01_KPI.ipynb
+|    │
+|    ├── 04_Models/
+|        ├── Credit_Approval_Rejection_Prediction_Model/
+|        |    ├── Model_Logistic_Reg.ipynb
+|        |    ├── README.md
+|        |
+|        ├── stress_test/
+|        |    ├── .ipynb
+|        |    ├── README.md
+|        |
+|        ├── model_3/
+|             ├── .ipynb
+|             ├── README.md   
 │
 ├── dashboard/
     └── All_lending_club_dashboard.pbix
+
 
 
 🧾 4. Sonuç
